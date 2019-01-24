@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>1 - utilities/icon-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,15 C0,23.2692783 6.73586547,30 15.0102273,30 C23.2744183,30 30,23.2692783 30,15 C30,6.73083399 23.2744183,0 15.0102273,0 C6.73586547,0 0,6.73083399 0,15" id="path-1"></path>
+        <linearGradient x1="96.6833585%" y1="50%" x2="2.07505419%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FF891F" offset="0%"></stop>
+            <stop stop-color="#F26223" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8.38453367,8.05916489 C6.56735865,9.85599955 5.56633028,12.3203614 5.56633028,15.0000112 C5.56633028,17.6795488 6.56735865,20.1453699 8.38453367,21.9422045 C10.1716485,23.707947 12.5826826,24.6808957 15.172157,24.6808957 C17.8996146,24.6808957 20.2619422,23.73758 22.0058877,21.9515209 L22.1735922,21.77956 L20.2604731,19.5273431 L20.0562669,19.7422943 C18.8007436,21.0552363 17.1121721,21.749927 15.172157,21.749927 C13.368656,21.749927 11.7206545,21.0673589 10.5329363,19.8256931 C9.34770423,18.5867213 8.69428969,16.8732854 8.69428969,15.0000112 C8.69428969,13.126737 9.34770423,11.4133012 10.5329363,10.1744416 C11.7206545,8.93401055 13.368656,8.25009541 15.172157,8.25009541 C17.110929,8.25009541 18.7993875,8.94489842 20.0562669,10.2577281 L20.2604731,10.4727916 L22.1735922,8.22180941 L22.0058877,8.04984847 C20.2619422,6.26390167 17.8983715,5.31923897 15.172157,5.31923897 C12.5826826,5.31923897 10.1730046,6.29218768 8.38453367,8.05916489" id="path-4"></path>
+        <filter x="-24.1%" y="-10.3%" width="148.2%" height="141.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2---components/2---navigations/external-app-toolbar" transform="translate(-14.000000, -14.000000)">
+            <g id="Stacked-Group">
+                <g id="all-app">
+                    <g id="1---utilities/icon-logo" transform="translate(14.000000, 14.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Combined-Shape-Copy"></g>
+                        <g id="1---utilities/2---color-utilities/4---marketing-colors/1---primary/sunrise-gradient-FF891F-F26223" mask="url(#mask-2)" fill="url(#linearGradient-3)" fill-rule="evenodd">
+                            <g transform="translate(15.000000, 15.000000) rotate(-180.000000) translate(-15.000000, -15.000000) " id="Rectangle">
+                                <rect x="0" y="0" width="30" height="30"></rect>
+                            </g>
+                        </g>
+                        <g id="Fill-4">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
